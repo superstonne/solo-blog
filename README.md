@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [初步认识 Garbage First（G1）垃圾回收器](http://www.download-pictures.com/articles/2019/08/14/1565761944879.html)
 * [我在 GitHub 上的开源项目](http://www.download-pictures.com/my-github-repos)
 * [登录 Unix 操作系统](http://www.download-pictures.com/articles/2019/08/13/1565706244004.html)
 * [初探 Unix 操作系统](http://www.download-pictures.com/articles/2019/08/13/1565705567300.html)
