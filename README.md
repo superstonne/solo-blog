@@ -10,6 +10,10 @@
 
 ### 最新
 
+* [深入理解 Unix / Linux 命令](http://www.download-pictures.com/articles/2019/08/17/1566043377320.html)
+* [上线需求到凌晨三点办后一些思考](http://www.download-pictures.com/articles/2019/08/17/1566043108781.html)
+* [如何操作 Unix / Linux 文件系统](http://www.download-pictures.com/articles/2019/08/17/1566042937860.html)
+* [如何使用优雅的使用 VI 编辑器](http://www.download-pictures.com/articles/2019/08/17/1566041860696.html)
 * [初步认识 Garbage First（G1）垃圾回收器](http://www.download-pictures.com/articles/2019/08/14/1565761944879.html)
 * [我在 GitHub 上的开源项目](http://www.download-pictures.com/my-github-repos)
 * [登录 Unix 操作系统](http://www.download-pictures.com/articles/2019/08/13/1565706244004.html)
