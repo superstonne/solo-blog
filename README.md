@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [Go 语言基础语言之变量定义](http://www.download-pictures.com/articles/2019/09/15/1568534448165.html)
+* [ NullPointerException](http://www.download-pictures.com/articles/2019/09/15/1568518328417.html)
 * [OAuth2.0 看这篇就够了](http://www.download-pictures.com/articles/2019/09/13/1568349736113.html)
 * [Go 语言开发环境安装](http://www.download-pictures.com/articles/2019/09/01/1567321418649.html)
 * [归并排序: 912. 排序数组](http://www.download-pictures.com/articles/2019/08/26/1566834139431.html)
